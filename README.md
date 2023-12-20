@@ -31,7 +31,7 @@ Standard Java libraries.
       - This input set file in turn contains an ordered list of individual input member files. 
    5. `targetSetFilename`: The target set filename to compare with the network's outputs (string)
       - This output set file in turn contains an ordered list of individual target member files.
-3. Run _ParserTester.java_ from the terminal with the control filename as the first argument.
+3. Run _ABCDNetworkTester.java_ from the terminal with the control filename as the first argument.
 4. The program will create and run the network based on the provided settings.
 6. Once finished training/running, the program will print the network specifications and a comparison table of network outputs and target outputs to the console.
    1. If specified, the network will also save weights to the specified weight output file.
