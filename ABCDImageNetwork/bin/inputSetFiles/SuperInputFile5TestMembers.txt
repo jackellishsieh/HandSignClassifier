@@ -1,7 +1,0 @@
-NUM_MEMBERS:5
-"separator"
-inputSetFiles/set6Files/75x75Set6Sign1.txt
-inputSetFiles/set6Files/75x75Set6Sign2.txt
-inputSetFiles/set6Files/75x75Set6Sign3.txt
-inputSetFiles/set6Files/75x75Set6Sign4.txt
-inputSetFiles/set6Files/75x75Set6Sign5.txt

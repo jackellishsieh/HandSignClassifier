@@ -1,4 +1,0 @@
-doTrainNotRun:true
-networkConfigurationFilename:networkConfigurationFiles/networkConfigurationFile1.txt
-inputSetFilename:inputSetFiles/SuperInputFile25Members.txt
-targetSetFilename:targetSetFiles/SignTargetSetFile25Members.txt
