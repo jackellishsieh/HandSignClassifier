@@ -1,0 +1,12 @@
+LAYER_SIZES:5625-50-25-5
+randomizeWeights:true
+RANDOM_WEIGHT_MIN:-0.17
+RANDOM_WEIGHT_MAX:+0.19
+weightsInputFilename:weightsInputFiles/WeightsFile25Members.txt
+allocateForTraining:true
+lambda:0.004
+errorThreshold:0.01
+maxIterations:10000
+weightsOutputFilename:weightsOutputFiles/75x75-50-25-5WeightsFile25Members.txt
+saveWeightsEvery:1000
+saveWeightsAtEnd:true
